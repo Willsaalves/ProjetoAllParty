@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Login.Login"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.awt.TextField"/>
+    <fullyQualifiedTypeName name="java.awt.Menu"/>
+    <fullyQualifiedTypeName name="Conexao.Conexao"/>
+    <fullyQualifiedTypeName name="CadastroUsuario.ControllerCadastro"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="javax.swing.JTabbedPane"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="Menu.ControllerMenu"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.lang.InternalError"/>
+    <fullyQualifiedTypeName name="Menu.Menu"/>
+    <fullyQualifiedTypeName name="javax.swing.JTable"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="javax.management.modelmbean.ModelMBeanOperationInfo"/>
+</qualifiedTypeNameHistroy>

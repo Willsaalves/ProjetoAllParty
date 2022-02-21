@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Mysql"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Qrcode"/>
+	<classpathentry kind="lib" path="C:/Users/willian.de/Downloads/zxing-core-2.0/zxing-core-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/willian.de/Downloads/zxing-1.7-javase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/willian.de/Downloads/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/willian.de/Downloads/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/willian.de/Downloads/commons-email-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
